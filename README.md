@@ -44,3 +44,8 @@ Spring Boot
 
 * 질문: https://github.com/nine03/fastcampus-project-board/discussions
 * 버그 리포트, 제안 사항: https://github.com/nine03/fastcampus-project-board/issues
+
+## Reference
+
+* 유즈케이스 다이어그램: #4, https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=use-case.svg#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fnine03%2Ffastcampus-project-board%2Fmain%2Fdocument%2Fuse-case.svg
+* API Endpoint 구글 시트: #1, https://docs.google.com/spreadsheets/d/1eVUFBv44Ss4-K8cXmAZoputtPIPIaDulyNysKHQXRIw/edit#gid=0
